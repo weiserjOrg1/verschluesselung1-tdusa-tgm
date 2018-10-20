@@ -1,5 +1,10 @@
 package dusa;
 
+/**
+ * MonoAlphabeticCipher decrypts and encrypts the Text from the User.
+ * @author Tobias
+ * @version 20.10.2018
+ */
 public class MonoAlphabeticCipher {
 	private String secretAlphabet;
 	
